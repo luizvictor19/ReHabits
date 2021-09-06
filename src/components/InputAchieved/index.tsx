@@ -63,8 +63,8 @@ export const InputAchieved = ({ label, register, name, error, ...rest }: IInputP
       <StyledContainerInput isErrored={!!error}>
         <select {...register(name)} {...rest}>
           <option></option>
-          <option value={true}>Sim</option>
-          <option value={false}>Não</option>
+          <option >Sim</option>
+          <option >Não</option>
         </select>
       </StyledContainerInput>
     </StyledContainer>
