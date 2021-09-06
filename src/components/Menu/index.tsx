@@ -165,7 +165,7 @@ export const Menu = () => {
         </li>
         {isLogged ? (
           <li>
-            <Link onClick={handleLogout}>
+            <Link to='#' onClick={handleLogout}>
               <i className="fas fa-sign-out-alt"></i>
               Logout
             </Link>
