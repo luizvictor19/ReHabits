@@ -1,7 +1,7 @@
 # ReHabits
 
 <div align="center">
-  <img height=400px width=500px src="https://imgur.com/a2DTq3o" alt="Rehabits" border="0">
+  <img height=400px width=500px src="https://i.imgur.com/a2DTq3o.png" alt="Rehabits" border="0">
 </div>
 
 <h1 align="center">Plataforma para gerenciamento de habitos e atividades.</h1>
