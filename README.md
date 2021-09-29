@@ -1,5 +1,9 @@
 # ReHabits
 
+<div>
+<a href="https://rehabits.vercel.app/">Link da Plataforma</a>
+</div>
+
 <div align="center">
   <img height=400px width=700px src="https://i.imgur.com/a2DTq3o.png" alt="Rehabits" border="0">
 </div>
@@ -35,6 +39,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [ReactJS](https://pt-br.reactjs.org/)
 - [Styled components](https://styled-components.com/docs/basics)
 - [TypeScript](https://www.typescriptlang.org/)
-
-<h2 align="center"><a href="https://www.linkedin.com/in/arthur-fenili-linemburg-ab8936184/">Arthur Fenili Linemburg</a></h2>
 
