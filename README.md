@@ -1,9 +1,10 @@
-# ReHabits
-
-<div>
+<div align="center">
+	<h1>ReHabits</h1>
+</div>
+<div align="center">
 <a href="https://rehabits.vercel.app/">Link da Plataforma</a>
 </div>
-
+<br/>
 <div align="center">
   <img height=400px width=700px src="https://i.imgur.com/a2DTq3o.png" alt="Rehabits" border="0">
 </div>
